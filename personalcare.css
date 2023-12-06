@@ -1,0 +1,40 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+
+html,
+body {
+    width: 100%;
+    height: 100%;
+
+}
+
+.box{
+   
+    display: flexbox;
+       height: 60%;
+       width: 60%;
+       border-width: 2px;
+       
+
+}
+
+.buy{
+
+    border-radius: 20px;
+    background-color: #D0A2F7;
+    padding: 30px 30px 30px 30px;
+
+}
+
+.proimg{
+
+    height: 350px;
+    width: 600px;
+
+
+
+}
